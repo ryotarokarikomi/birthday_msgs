@@ -1,6 +1,6 @@
 # birthday_msgs
 ***ロボットシステム学(課題2)***  
-[birthday](https://github.com/ryotarokarikomi/birthday.git)で使用する型を設定します。
+[birthday](https://github.com/ryotarokarikomi/birthday.git)で使用する型を設定しています。
 
 ## 著作権
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
