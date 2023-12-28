@@ -1,6 +1,6 @@
-# birthday_msgs
+# time_msgs
 ***ロボットシステム学(課題2)***  
-[birthday](https://github.com/ryotarokarikomi/birthday.git)で使用する型を設定しています。
+[stop_watch](https://github.com/ryotarokarikomi/stop_watch.git)で使用する型を設定しています。
 
 
 ## msg
